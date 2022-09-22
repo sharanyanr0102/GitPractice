@@ -3,5 +3,7 @@ public static void main(String[] args)
 	System.out.println("First file in GIT respository");
 	Sytem.out.println("Added new line to the program");
 	System.out.println("Added new line from singapore");
+	
+	System.out.println("Welcome to Devops series"); // Code added by Sharanya
 }
 
